@@ -1,0 +1,11 @@
+/home/romulus/Documents/Purdue/Software Design/IT232_Helton_Unit4/IT232_Helton_Unit4/bin/Debug/netcoreapp3.1/IT232_Helton_Unit4
+/home/romulus/Documents/Purdue/Software Design/IT232_Helton_Unit4/IT232_Helton_Unit4/bin/Debug/netcoreapp3.1/IT232_Helton_Unit4.deps.json
+/home/romulus/Documents/Purdue/Software Design/IT232_Helton_Unit4/IT232_Helton_Unit4/bin/Debug/netcoreapp3.1/IT232_Helton_Unit4.runtimeconfig.json
+/home/romulus/Documents/Purdue/Software Design/IT232_Helton_Unit4/IT232_Helton_Unit4/bin/Debug/netcoreapp3.1/IT232_Helton_Unit4.runtimeconfig.dev.json
+/home/romulus/Documents/Purdue/Software Design/IT232_Helton_Unit4/IT232_Helton_Unit4/bin/Debug/netcoreapp3.1/IT232_Helton_Unit4.dll
+/home/romulus/Documents/Purdue/Software Design/IT232_Helton_Unit4/IT232_Helton_Unit4/bin/Debug/netcoreapp3.1/IT232_Helton_Unit4.pdb
+/home/romulus/Documents/Purdue/Software Design/IT232_Helton_Unit4/IT232_Helton_Unit4/obj/Debug/netcoreapp3.1/IT232_Helton_Unit4.csprojAssemblyReference.cache
+/home/romulus/Documents/Purdue/Software Design/IT232_Helton_Unit4/IT232_Helton_Unit4/obj/Debug/netcoreapp3.1/IT232_Helton_Unit4.AssemblyInfoInputs.cache
+/home/romulus/Documents/Purdue/Software Design/IT232_Helton_Unit4/IT232_Helton_Unit4/obj/Debug/netcoreapp3.1/IT232_Helton_Unit4.AssemblyInfo.cs
+/home/romulus/Documents/Purdue/Software Design/IT232_Helton_Unit4/IT232_Helton_Unit4/obj/Debug/netcoreapp3.1/IT232_Helton_Unit4.dll
+/home/romulus/Documents/Purdue/Software Design/IT232_Helton_Unit4/IT232_Helton_Unit4/obj/Debug/netcoreapp3.1/IT232_Helton_Unit4.pdb

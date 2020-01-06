@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IT232_Helton_Unit4/1.0.0": {
+        "runtime": {
+          "IT232_Helton_Unit4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IT232_Helton_Unit4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
